@@ -1,11 +1,4 @@
-//***** Wifi Smart Clock with blynk by  Crazy Indiana*****//
-/*************************************************************
-*  CRAZY INDIANA Wifi Smart Clock (NodeMcu) with Blynk        *
-*  Website www.crazyindiana.in                                *
-*  Youtube www.youtube.com/c/CrazyIndiana                     *
-*  Download latest Blynk library here:                        *
-*  https://github.com/blynkkk/blynk-library/releases/latest   *
-**************************************************************/
+
 // Date and time functions using a DS3231 RTC connected via I2C and Wire lib
 
 #define BLYNK_PRINT Serial
